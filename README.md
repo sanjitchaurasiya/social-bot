@@ -15,7 +15,7 @@
 ### Install
 1. Clone this repo.
 ````
-git clone https://github.com/anbuinfosec/social-bot && cp -r social-bot/. . && rm -rf social-bot
+git clone https://github.com/sanjitchaurasiya/social-bot && cp -r social-bot/. . && rm -rf social-bot
 ````
 2. Install all requirements.
 ````
@@ -39,7 +39,7 @@ python bot.py
 ---
 ### Run on replit
 
-[![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/anbuinfosec/social-bot)
+[![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/sanjitchaurasiya/social-bot)
 
 **Go to secret and edit telegram bot key and apikey. Then run project.**
 
